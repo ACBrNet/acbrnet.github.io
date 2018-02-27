@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: acbr.net | ACBr.Net]]></title>
-  <link href="http://acbrnet.github.io/blog/categories/acbr-dot-net/atom.xml" rel="self"/>
+  <title><![CDATA[Category: .net 4.5.2 | ACBr.Net]]></title>
+  <link href="http://acbrnet.github.io/blog/categories/dot-net-4-dot-5-2/atom.xml" rel="self"/>
   <link href="http://acbrnet.github.io/"/>
   <updated>2018-02-27T03:26:05+00:00</updated>
   <id>http://acbrnet.github.io/</id>

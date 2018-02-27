@@ -4,7 +4,7 @@
   <title><![CDATA[ACBr.Net]]></title>
   <link href="http://acbrnet.github.io/atom.xml" rel="self"/>
   <link href="http://acbrnet.github.io/"/>
-  <updated>2018-02-27T03:12:29+00:00</updated>
+  <updated>2018-02-27T03:26:05+00:00</updated>
   <id>http://acbrnet.github.io/</id>
   <author>
     <name><![CDATA[RFTD]]></name>
@@ -14,11 +14,28 @@
 
   
   <entry>
+    <title type="html"><![CDATA[Progresso De Atualização Da Libs Para .Net Standard]]></title>
+    <link href="http://acbrnet.github.io/blog/2018/02/26/progresso-de-atualizacao-da-libs-para-net-standard/"/>
+    <updated>2018-02-26T23:15:31-04:00</updated>
+    <id>http://acbrnet.github.io/blog/2018/02/26/progresso-de-atualizacao-da-libs-para-net-standard</id>
+    <content type="html"><![CDATA[<h2>Progresso da Atualização</h2>
+
+<ul>
+<li>[x] ACBr.Net.Core</li>
+<li>[x] ACBr.Net.DFe.Core</li>
+<li>[ ] ACBr.Net.Integrador</li>
+<li>[ ] ACBr.Net.Sat</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Mudança De Versão Framework]]></title>
     <link href="http://acbrnet.github.io/blog/2018/02/26/acbr-dot-net/"/>
     <updated>2018-02-26T23:00:00-04:00</updated>
     <id>http://acbrnet.github.io/blog/2018/02/26/acbr-dot-net</id>
-    <content type="html"><![CDATA[<p>A partir da proxima versão do componentes ACBr.Net estarei mudando a versão do .net framework para versão 4.6.1 para podermos usar as bibliotecas no .Net Standard 2.0.</p>
+    <content type="html"><![CDATA[<p>A partir da proxima versão do componentes ACBr.Net estarei mudando a versão do .net framework para versão 4.5.2 para podermos usar as bibliotecas no .Net Standard 2.0.</p>
 ]]></content>
   </entry>
   

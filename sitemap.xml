@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://acbrnet.github.io/blog/2018/02/26/progresso-de-atualizacao-da-libs-para-net-standard/</loc>
+<lastmod>2018-02-26T23:15:31-04:00</lastmod>
+</url>
+<url>
 <loc>http://acbrnet.github.io/blog/2018/02/26/acbr-dot-net/</loc>
 <lastmod>2018-02-26T23:00:00-04:00</lastmod>
 </url>
@@ -14,6 +18,9 @@
 <loc>http://acbrnet.github.io/blog/categories/acbr-dot-net/</loc>
 </url>
 <url>
-<loc>http://acbrnet.github.io/blog/categories/blog/</loc>
+<loc>http://acbrnet.github.io/blog/categories/dot-net-standard-2-dot-0/</loc>
+</url>
+<url>
+<loc>http://acbrnet.github.io/blog/categories/dot-net-4-dot-5-2/</loc>
 </url>
 </urlset>
