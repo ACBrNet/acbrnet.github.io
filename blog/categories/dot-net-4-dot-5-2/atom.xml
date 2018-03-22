@@ -4,7 +4,7 @@
   <title><![CDATA[Category: .net 4.5.2 | ACBr.Net]]></title>
   <link href="http://acbrnet.github.io/blog/categories/dot-net-4-dot-5-2/atom.xml" rel="self"/>
   <link href="http://acbrnet.github.io/"/>
-  <updated>2018-02-27T03:26:05+00:00</updated>
+  <updated>2018-03-22T20:09:16+01:00</updated>
   <id>http://acbrnet.github.io/</id>
   <author>
     <name><![CDATA[RFTD]]></name>
@@ -23,8 +23,11 @@
 <ul>
 <li>[x] ACBr.Net.Core</li>
 <li>[x] ACBr.Net.DFe.Core</li>
-<li>[ ] ACBr.Net.Integrador</li>
-<li>[ ] ACBr.Net.Sat</li>
+<li>[x] ACBr.Net.Integrador</li>
+<li>[x] ACBr.Net.Sat</li>
+<li>[x] ACBr.Net.CTe</li>
+<li>[ ] ACBr.Net.Consulta</li>
+<li>[ ] ACBr.Net.NFSe</li>
 </ul>
 
 ]]></content>
