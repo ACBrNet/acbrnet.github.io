@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Nfse | ACBr.Net]]></title>
+  <link href="http://acbrnet.github.io/blog/categories/nfse/atom.xml" rel="self"/>
+  <link href="http://acbrnet.github.io/"/>
+  <updated>2018-07-15T23:25:02+01:00</updated>
+  <id>http://acbrnet.github.io/</id>
+  <author>
+    <name><![CDATA[RFTD]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Provedor FissLex Finalizado Na NFSe.]]></title>
+    <link href="http://acbrnet.github.io/blog/2018/07/15/provedor-fisslex-finalizado-na-nfse/"/>
+    <updated>2018-07-15T18:21:13-04:00</updated>
+    <id>http://acbrnet.github.io/blog/2018/07/15/provedor-fisslex-finalizado-na-nfse</id>
+    <content type="html"><![CDATA[<p>Foi adicionado o provedor FissLex no ACBrNFSe, aqueles que puderem favor testar e enviar o feedback no repositório.</p>
+]]></content>
+  </entry>
+  
+</feed>

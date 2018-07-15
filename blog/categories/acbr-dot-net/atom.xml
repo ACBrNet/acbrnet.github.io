@@ -4,7 +4,7 @@
   <title><![CDATA[Category: acbr.net | ACBr.Net]]></title>
   <link href="http://acbrnet.github.io/blog/categories/acbr-dot-net/atom.xml" rel="self"/>
   <link href="http://acbrnet.github.io/"/>
-  <updated>2018-03-22T20:09:16+01:00</updated>
+  <updated>2018-07-15T23:25:02+01:00</updated>
   <id>http://acbrnet.github.io/</id>
   <author>
     <name><![CDATA[RFTD]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Provedor FissLex Finalizado Na NFSe.]]></title>
+    <link href="http://acbrnet.github.io/blog/2018/07/15/provedor-fisslex-finalizado-na-nfse/"/>
+    <updated>2018-07-15T18:21:13-04:00</updated>
+    <id>http://acbrnet.github.io/blog/2018/07/15/provedor-fisslex-finalizado-na-nfse</id>
+    <content type="html"><![CDATA[<p>Foi adicionado o provedor FissLex no ACBrNFSe, aqueles que puderem favor testar e enviar o feedback no repositório.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Progresso De Atualização Da Libs Para .Net Standard]]></title>
@@ -26,8 +35,8 @@
 <li>[x] ACBr.Net.Integrador</li>
 <li>[x] ACBr.Net.Sat</li>
 <li>[x] ACBr.Net.CTe</li>
+<li>[X] ACBr.Net.NFSe</li>
 <li>[ ] ACBr.Net.Consulta</li>
-<li>[ ] ACBr.Net.NFSe</li>
 </ul>
 
 ]]></content>
